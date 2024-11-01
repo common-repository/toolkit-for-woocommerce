@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "files": ["constants.php", "helpers.php"],
+        "psr-4": {
+            "GearGag_WooCommerce_Toolkit\\": "."
+        }
+    },
+    "require": {
+        "julien731/wp-review-me": "^2.0.1"
+    }
+}
